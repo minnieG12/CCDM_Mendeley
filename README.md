@@ -1,4 +1,4 @@
-# CCDM_Mendely
+# CCDM_Mendeley
 
 This notebook evaluates our VGG‑16–based cervical cell classifier on the external Mendeley cervical cell image dataset. It:
 
